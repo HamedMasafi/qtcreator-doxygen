@@ -1,6 +1,7 @@
 # qtcreator-doxygen
 Doxygen Plugin for Qt Creator
 
+
 [![GitHub version](https://badge.fury.io/gh/fpoussin%2Fqtcreator-doxygen.svg)](https://github.com/fpoussin/qtcreator-doxygen/releases)
 [![Build Status](https://jenkins.netyxia.net/buildStatus/icon?job=qtcreator-doxygen%2Fmaster)](https://jenkins.netyxia.net/job/qtcreator-doxygen/job/master/)  
 
